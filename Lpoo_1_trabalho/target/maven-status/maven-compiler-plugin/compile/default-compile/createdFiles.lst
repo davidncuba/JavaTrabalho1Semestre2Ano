@@ -1,0 +1,13 @@
+Pessoa/PessoaJuridica.class
+Pessoa/Telefone.class
+Financeiro/Financeiro.class
+Pessoa/Pessoa.class
+Pessoa/Funcionario.class
+InterfaceCadastro/InterfaceCadastro.class
+Pessoa/PessoaFisica.class
+Pessoa/Fornecedor.class
+Financeiro/Receber.class
+MenuPrincipal/MenuPrincipal.class
+Pessoa/Cliente.class
+Pessoa/Endereco.class
+Financeiro/Pagar.class
